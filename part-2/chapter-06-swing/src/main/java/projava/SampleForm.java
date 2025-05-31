@@ -19,7 +19,7 @@ public class SampleForm {
 
     public static void main(String[] args) {
         var frame = new JFrame("test");
-        frame.setSize(600, 400);
+        frame.setSize(600, 410);
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 
         var text1 = new JTextField();
